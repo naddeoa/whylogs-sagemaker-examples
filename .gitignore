@@ -1,0 +1,6 @@
+.venv
+sa
+.env
+*.tgz
+*.gz
+model/
