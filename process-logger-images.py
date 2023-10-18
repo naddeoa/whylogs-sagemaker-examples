@@ -11,7 +11,7 @@ from whylogs.core.datatypes import DataType
 from whylogs.extras.image_metric import ImageMetric, ImageMetricConfig
 from whylogs.core.metrics.metrics import Metric
 
-why.init(api_key="3QYTCJSgE0.ME8gmCfqmdAd233vet4WuLs4eScPW0Lxwb4jHUglnIyQOXZjx5vLA:org-JpsdM6", default_dataset_id="model-69")
+why.init(default_dataset_id="model-69")
 
 row_name = "image"
 
