@@ -1,6 +1,6 @@
 .venv
 sa
-.env
+*.env
 *.tgz
 *.gz
 model/
