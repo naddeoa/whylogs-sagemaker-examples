@@ -3,5 +3,6 @@ sa
 *.env
 *.tgz
 *.gz
+*.pt
 model/
 xgboost-model
