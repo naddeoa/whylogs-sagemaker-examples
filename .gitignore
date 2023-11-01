@@ -4,3 +4,4 @@ sa
 *.tgz
 *.gz
 model/
+xgboost-model
